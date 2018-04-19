@@ -23,5 +23,8 @@ Alexandro => @Kalejo
 		<li><em>Game</em> : c'est la partie. Elle initialise tout et lance le jeu</li>
 	</ul>
 
-<h3>A vous de jouer!!!</h3>
+<h3>A vous de jouer!!!<br>
+Que le meilleur gagne
+
+</h3>
 
