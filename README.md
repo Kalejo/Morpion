@@ -1,6 +1,6 @@
 
 
-<title> Morpion</title>
+<h1> Morpion</h1>
 
 Projet 19/04/2018 Tic-Tac-Toe<br>
 THP Lille 59<br>
@@ -24,4 +24,4 @@ Alexandro => @Kalejo
 	</ul>
 
 <h3>A vous de jouer!!!</h3>
-<img scr ="https://i.ytimg.com/vi/2cKYdLZtCgg/hqdefault.jpg">
+
