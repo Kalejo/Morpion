@@ -25,6 +25,6 @@ Alexandro => @Kalejo
 
 
 <h3>A vous de jouer!!!<br>
-Que le meilleur gagne
+Que le meilleur gagne</h3>
 
-</h3>
+![img](morpion.jpg)
