@@ -1,5 +1,3 @@
-
-
 class BoardCase
   attr_accessor :case_value
 
@@ -36,9 +34,6 @@ class Board
     @board[index].case_value = symbol
   end
 end
-
-
-
 
 class Player
   attr_accessor :name, :victorious
@@ -143,7 +138,6 @@ class Game# on définit la classe game-pour le tour de jeu, en lien avec le boar
     #retourne un gagnant s'il en a, sinon retourne false
     return game_over(player)
   end
-
 
   #determine la fin de la partie
   def game_over(player)
